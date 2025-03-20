@@ -1,7 +1,4 @@
 # Deep-Learning-Handwritten-Digit-Classification
-# Optimizing Deep Neural Networks for Handwritten Digit Recognition
-**Chase Wiederstein - March 2025**
-
 ## Executive Summary
 This project delves into the application and optimization of various deep learning models, including Multilayer Perceptrons (MLP), Convolutional Neural Networks (CNN), and Locally Connected Neural Networks (LCNN), targeting the recognition of handwritten digits sourced from U.S. Postal Service envelopes. The primary objective is to enhance model accuracy through systematic hyperparameter tuning, showcasing significant variations in model performance and highlighting the crucial role of strategic hyperparameter adjustments.
 
