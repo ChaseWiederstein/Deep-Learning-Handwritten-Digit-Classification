@@ -8,8 +8,8 @@ This project delves into the application and optimization of various deep learni
 - **Training and Optimization**: Discusses the methodologies employed in training the models using stochastic gradient descent with momentum and cross-entropy loss. It covers the stages from coarse random search to fine-tuned Bayesian optimization, focusing on learning rates, batch sizes, momentum, and dropout rates.
 
 ## Project Files
-- `digitClassification.`: Detailed descriptions and configurations of the MLP, CNN, and LCNN used.
-- `digitClassCode.pynb`: Contains graphical and tabular representations of training progress and outcomes.
+- `digitClassification.pdf`: Detailed descriptions and configurations of the MLP, CNN, and LCNN used.
+- `digitClassCode.ipynb`: Contains graphical and tabular representations of training progress and outcomes.
 
 
 
